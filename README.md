@@ -22,6 +22,6 @@ Caso seja maior de 18, será exibida uma mensagem "Seja bem vindo!" Caso não se
 
 //-------------------------------------------------------------------//
 
-No index está presente todo o HTML do arquivo, dentro do <head> com o <link rel="stylesheet" href="styles.css"> eu relaciono o código .CSS com o HTML.
+No index está presente todo o HTML do arquivo, dentro do /head/ com o /link rel="stylesheet" href="styles.css"/ eu relaciono o código .CSS com o HTML.
 
-No <body> está presente o corpo do site
+No /body/ está presente o corpo do site e as interações com CSS e JS.
